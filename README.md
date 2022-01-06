@@ -7,10 +7,6 @@ My hands-on technical knowledge enables me to work across teams to share archite
 
 #### Get to know me - my values
 
-I have experience with using design systems, integrating existing patterns or components into a workflow.
-
-I'm able to think and create with a patterns and systems mindset, and keen to share that thinking with others via documentation, usage and discussion.
-
 I understand common user behaviours, and can provide evidence-based design guidance by assessing and validating specific design concepts and solutions with end-users, peers and client stakeholders.
 
 I’m happy to jump in feet-first, trialling new ideas and approaches with a growth mindset. If I don’t get things right the first time, I’m resilient, and progressive about learning and adapting for the next time around. I can manage my own time and am flexible; I recognise that each project is different and unique in its own right.
