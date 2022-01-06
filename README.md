@@ -5,7 +5,7 @@ As a seasoned design professional I have developed a deep understanding of the c
 My hands-on technical knowledge enables me to work across teams to share architecture, evolve design standards, introduce lean workflows, mentor peers, and drive change through collaboration 🤓.
 
 
-#### Get to know me - my values
+#### Get to know me - my values (better heading needed)
 
 I understand common user behaviours, and can provide evidence-based design guidance by assessing and validating specific design concepts and solutions with end-users, peers and client stakeholders.
 
@@ -22,7 +22,7 @@ I do my best work collaborating within cross–functional teams and know that sh
 I know the best way to tackle complex problems is by remaining adaptable. I understand and respect the differences between the various research, design or development methodologies, while not following any practice dogmatically. I have an array of techniques to draw upon, but focus on the outcomes of my work, rather than fetishise the way it looks or how it’s delivered.
 
 
-### Principles
+#### Principles
 
 * We learn from failure - We encourage failure, embrace setbacks, and allow mistakes. We learn, iterate and grow from them.
 * We are obvious - The experiences we craft are obvious, transparent and inevitable. We go the extra mile to make the experience feel predictably inevitable.
