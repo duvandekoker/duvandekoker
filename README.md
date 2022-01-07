@@ -15,7 +15,7 @@ I insist on a deeper understanding of the problem before rushing into solutions,
 
 I understand the benefits of making complex ideas simple through diagrams, concept maps, sketches or other visual thinking techniques. I enjoy working through ideas with clients and colleagues, but I'm also hands-on enough to help bring those ideas into reality.
 
-I understand that success can often rest on the quality of communication. I prefer discussion over emails and documents. I pride myself on expressing my ideas clearly and with a strong sense of purpose that encourages trust from my colleagues and clients, whether that’s a conversation around a whiteboard, an innovative prototype or selecting the right framework for a project.
+I understand that success can often rest on the quality of communication. I prefer discussion over email. I pride myself on expressing my ideas clearly and with a strong sense of purpose that encourages trust from my colleagues and clients, whether that’s a conversation around a whiteboard, an innovative prototype or selecting the right framework for a project.
 
 I do my best work collaborating within cross–functional teams and know that shared understanding is the critical factor in achieving a successful outcome. I instinctively share my ideas with colleagues and peers, and love to see them adapt and evolve as a result of constructive criticism.
 
