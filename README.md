@@ -29,8 +29,13 @@ I know the best way to tackle complex problems is by remaining adaptable. I unde
 * We collaborate - We tackle problems together. We listen, we understand, and we encourage rather than force solutions. We learn from each other and understand the value of what we are building.
 * We make it accessible and inclusive - Everything we build should be accessible, responsive and inclusive. We sacrifice elegance over inclusiveness, readability and legibility. Design should be usable on all devices by all of the people in all situations.
 
+Build good rapport and strong working relationships with colleagues and clients.
+Lead, manage or direct colleagues or team members in executing their work to an exemplary standard.
+Support the ongoing growth of colleagues, through informal, ad-hoc advice sessions and regular catch-ups.
+
 I love the idea that the Internet is a global public resource, open and accessible to all.
 I belive that inclusive design is a great enabler.
+I belive in culture add, not culture fit.
 
 <!--
 **duvandekoker/duvandekoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
