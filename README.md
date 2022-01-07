@@ -24,9 +24,9 @@ I know the best way to tackle complex problems is by remaining adaptable. I unde
 
 #### Principles
 
-* We learn from failure - We encourage failure, embrace setbacks, and allow mistakes. We learn, iterate and grow from them.
-* We are obvious - The experiences we craft are obvious, transparent and inevitable. We go the extra mile to make the experience feel predictably inevitable.
-* We make it accessible and inclusive - Everything we build should be accessible, responsive and inclusive. We sacrifice elegance over inclusiveness, readability and legibility.
+* Learn from failure - encourage failure, embrace setbacks, and allow mistakes. Learn, iterate and grow from them.
+* Be obvious - The experiences I craft are obvious, transparent and inevitable. I go the extra mile to make the experience feel predictably inevitable.
+* Make it accessible and inclusive - Everything should be accessible, responsive and inclusive. Sacrifice elegance over inclusiveness, readability and legibility.
 
 **Mozilla's mission stement resonantes with me**
 Our mission is to ensure the Internet is a global public resource, open and accessible to all. An Internet that truly puts people first, where individuals can shape their own experience and are empowered, safe and independent.
