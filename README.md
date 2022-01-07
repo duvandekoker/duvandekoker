@@ -22,14 +22,14 @@ I do my best work collaborating within cross–functional teams and know that sh
 I know the best way to tackle complex problems is by remaining adaptable. I understand and respect the differences between the various research, design or development methodologies, while not following any practice dogmatically. I have an array of techniques to draw upon, but focus on the outcomes of my work, rather than fetishise the way it looks or how it’s delivered.
 
 
-#### My personal principles
+#### Principles i preach.
 
-* Learn from failure - encourage failure, embrace setbacks, and allow mistakes. Learn, iterate and grow from them.
-* Be obvious - The experiences I craft are obvious, transparent and inevitable. I go the extra mile to make the experience feel predictably inevitable.
-* Make it accessible and inclusive - Everything should be accessible, responsive and inclusive. Sacrifice elegance over inclusiveness, readability and legibility. Design should be usable on all devices by all of the people in all situations. Design is simple, touch friendly and clear and aims for AA accessibility. Be accessible to the broadest possible audience.
+* We learn from failure - We encourage failure, embrace setbacks, and allow mistakes. We learn, iterate and grow from them.
+* We are obvious - The experiences we craft are obvious, transparent and inevitable. We go the extra mile to make the experience feel predictably inevitable.
+* We collaborate - We tackle problems together. We listen, we understand, and we encourage rather than force solutions. We learn from each other and understand the value of what we are building.
+* We make it accessible and inclusive - Everything we build should be accessible, responsive and inclusive. We sacrifice elegance over inclusiveness, readability and legibility. Design should be usable on all devices by all of the people in all situations.
 
-**Mozilla's mission stement resonantes with me**
-Our mission is to ensure the Internet is a global public resource, open and accessible to all. An Internet that truly puts people first, where individuals can shape their own experience and are empowered, safe and independent.
+I love the idea that the Internet is a global public resource, open and accessible to all.
 
 
 <!--
