@@ -22,7 +22,7 @@ I do my best work collaborating within cross–functional teams and know that sh
 I know the best way to tackle complex problems is by remaining adaptable. I understand and respect the differences between the various research, design or development methodologies, while not following any practice dogmatically. I have an array of techniques to draw upon, but focus on the outcomes of my work, rather than fetishise the way it looks or how it’s delivered.
 
 
-#### Principles
+#### My personal principles
 
 * Learn from failure - encourage failure, embrace setbacks, and allow mistakes. Learn, iterate and grow from them.
 * Be obvious - The experiences I craft are obvious, transparent and inevitable. I go the extra mile to make the experience feel predictably inevitable.
