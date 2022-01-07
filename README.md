@@ -26,7 +26,7 @@ I know the best way to tackle complex problems is by remaining adaptable. I unde
 
 * Learn from failure - encourage failure, embrace setbacks, and allow mistakes. Learn, iterate and grow from them.
 * Be obvious - The experiences I craft are obvious, transparent and inevitable. I go the extra mile to make the experience feel predictably inevitable.
-* Make it accessible and inclusive - Everything should be accessible, responsive and inclusive. Sacrifice elegance over inclusiveness, readability and legibility.
+* Make it accessible and inclusive - Everything should be accessible, responsive and inclusive. Sacrifice elegance over inclusiveness, readability and legibility. Design should be usable on all devices by all of the people in all situations. Design is simple, touch friendly and clear and aims for AA accessibility. Be accessible to the broadest possible audience.
 
 **Mozilla's mission stement resonantes with me**
 Our mission is to ensure the Internet is a global public resource, open and accessible to all. An Internet that truly puts people first, where individuals can shape their own experience and are empowered, safe and independent.
