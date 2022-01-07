@@ -4,8 +4,7 @@ As a seasoned design professional I have developed a deep understanding of the c
 
 My hands-on technical knowledge enables me to work across teams to share architecture, evolve design standards, introduce lean workflows, mentor peers, and drive change through collaboration 🤓.
 
-
-#### Get to know me - my values (better heading needed)
+#### Working values
 
 I understand common user behaviours, and can provide evidence-based design guidance by assessing and validating specific design concepts and solutions with end-users, peers and client stakeholders.
 
@@ -22,24 +21,18 @@ I do my best work collaborating within cross–functional teams and know that sh
 I know the best way to tackle complex problems is by remaining adaptable. I understand and respect the differences between the various research, design or development methodologies, while not following any practice dogmatically. I have an array of techniques to draw upon, but focus on the outcomes of my work, rather than fetishise the way it looks or how it’s delivered.
 
 
-#### Working values
+#### Personal principles
 
 * We learn from failure - We encourage failure, embrace setbacks, and allow mistakes. We learn, iterate and grow from them.
 * We are obvious - The experiences we craft are obvious, transparent and inevitable. We go the extra mile to make the experience feel predictably inevitable.
 * We collaborate - We tackle problems together. We listen, we understand, and we encourage rather than force solutions. We learn from each other and understand the value of what we are building.
 * We make it accessible and inclusive - Everything we build should be accessible, responsive and inclusive. We sacrifice elegance over inclusiveness, readability and legibility. Design should be usable on all devices by all of the people in all situations.
 
-Build good rapport and strong working relationships with colleagues and clients.
-
-Lead, manage or direct colleagues or team members in executing their work to an exemplary standard.
-
-Support the ongoing growth of colleagues, through informal, ad-hoc advice sessions and regular catch-ups.
-
 I love the idea that the Internet is a global public resource, open and accessible to all.
 
-I belive that inclusive design is a great enabler.
+I believe that inclusive design is a great enabler.
 
-I belive in culture add, not culture fit.
+I believe in culture add, not culture fit.
 
 <!--
 **duvandekoker/duvandekoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
