@@ -1,6 +1,6 @@
 ### Hi there, my name is Duvan de Koker 👋
 
-As a seasoned design professional I have developed a deep understanding of the customer experience. I draw from a wealth of knowledge and methodologies in user experience, interaction design, and user interface design to create intuitive and immersive digital experiences. This, coupled with a strong empathy for customers and an unwillingness to compromise on user-centered design, enables me to address both business goals and user needs.
+As a seasoned design professional I have developed a deep understanding of the customer experience. I draw from a wealth of knowledge and methodologies in user experience, interaction design, and user interface design to create intuitive and immersive digital experiences. This, coupled with a strong empathy for the end user and an unwillingness to compromise on user-centered design, enables me to successfully address both business goals and user needs.
 
 My hands-on technical knowledge enables me to work across teams to share architecture, evolve design standards, introduce lean workflows, mentor peers, and drive change through collaboration 🤓.
 
@@ -22,7 +22,7 @@ I do my best work collaborating within cross–functional teams and know that sh
 I know the best way to tackle complex problems is by remaining adaptable. I understand and respect the differences between the various research, design or development methodologies, while not following any practice dogmatically. I have an array of techniques to draw upon, but focus on the outcomes of my work, rather than fetishise the way it looks or how it’s delivered.
 
 
-#### Principles i preach.
+#### Working values
 
 * We learn from failure - We encourage failure, embrace setbacks, and allow mistakes. We learn, iterate and grow from them.
 * We are obvious - The experiences we craft are obvious, transparent and inevitable. We go the extra mile to make the experience feel predictably inevitable.
@@ -30,7 +30,7 @@ I know the best way to tackle complex problems is by remaining adaptable. I unde
 * We make it accessible and inclusive - Everything we build should be accessible, responsive and inclusive. We sacrifice elegance over inclusiveness, readability and legibility. Design should be usable on all devices by all of the people in all situations.
 
 I love the idea that the Internet is a global public resource, open and accessible to all.
-
+I belive that inclusive design is a great enabler.
 
 <!--
 **duvandekoker/duvandekoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,4 +45,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- A Day (Week, Milestone) in the Life: ...
 -->
