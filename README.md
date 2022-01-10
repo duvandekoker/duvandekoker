@@ -4,6 +4,7 @@ As a seasoned design professional I have developed a deep understanding of the c
 
 My hands-on technical knowledge enables me to work across teams to share architecture, evolve design standards, introduce lean workflows, mentor peers, and drive change through collaboration 🤓.
 
+
 #### Working values
 
 I understand common user behaviours, and can provide evidence-based design guidance by assessing and validating specific design concepts and solutions with end-users, peers and client stakeholders.
@@ -26,8 +27,10 @@ I know the best way to tackle complex problems is by remaining adaptable. I unde
 * Learn from failure - encourage failure, embrace setbacks, and allow mistakes. Learn, iterate and grow from them.
 * Embrace diversity - encourage every member of the team to express themselves freely in a safe and supportive environment, allowing everyone to bring their own unique backgrounds and experiences with them.
 
+
 #### Here's some trivia about me:
-adad
+
+* Describe myself
 
 <!--
 **duvandekoker/duvandekoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
