@@ -24,7 +24,6 @@ I know the best way to tackle complex problems is by remaining adaptable. I unde
 #### Personal principles
 
 * Learn from failure - encourage failure, embrace setbacks, and allow mistakes. Learn, iterate and grow from them.
-* Design for everyone - design should be usable on all devices by all of the people in all situations. Be accessible to the broadest possible audience.
 * Embrace diversity - encourage every member of the team to express themselves freely in a safe and supportive environment, allowing everyone to bring their own unique backgrounds and experiences with them.
 
 <!--
