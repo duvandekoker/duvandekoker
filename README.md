@@ -24,6 +24,7 @@ I know the best way to tackle complex problems is by remaining adaptable. I unde
 #### Personal principles
 
 * Learn from failure - encourage failure, embrace setbacks, and allow mistakes. Learn, iterate and grow from them.
+* Embrace transparency - transparent processes promote participation, accountability and trust.
 
 <!--
 **duvandekoker/duvandekoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
