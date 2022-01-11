@@ -27,6 +27,13 @@ I know the best way to tackle complex problems is by remaining adaptable. I unde
 * Learn from failure - encourage failure, embrace setbacks, and allow mistakes. Learn, iterate and grow from them.
 * Embrace diversity - encourage every member of the team to express themselves freely in a safe and supportive environment, allowing everyone to bring their own unique backgrounds and experiences with them.
 
+#### Design principles
+* Design is a series of intentional decisions
+* Design depends on context
+* User-centered design is for people
+* Design shapes organisations, and vice-versa
+* Design is never done
+
 
 #### Here's some trivia about me:
 
