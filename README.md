@@ -1,8 +1,8 @@
-### Hi there, my name is Duvan de Koker 👋
+### Hi,
 
-As a seasoned design professional I have developed a deep understanding of the customer experience. I draw from a wealth of knowledge and methodologies in user experience, interaction design, and user interface design to create intuitive and immersive digital experiences. This, coupled with a strong empathy for the end user and an unwillingness to compromise on user-centered design, enables me to successfully address both business goals and user needs.
+I’m a technical design generalist with a strategic and systems thinking mindset, bridging the gap between product, design, and engineering.
 
-My hands-on technical knowledge enables me to work across teams to share architecture, evolve design standards, introduce lean workflows, mentor peers, and drive change through collaboration 🤓.
+I’ve built successful digital products and scaled user interface design and development in large organisations. I’ve defined, built, and evolved design systems, tools, and processes.
 
 
 #### Working values
@@ -30,7 +30,7 @@ I know the best way to tackle complex problems is by remaining adaptable. I unde
 #### Design principles
 * **Design is a series of intentional decisions** - every project is shaped by a series of decisions, whether those decisions are about meeting agendas, research plans, or what constitutes a minimum-viable product. Taking a design approach means identifying opportunities for decision-making, and being intentional about making decisions.
 * **Design depends on context** - what’s the right approach? It depends. We use design research to better understand the problems we might solve, and the systems those problems connect to. We actively validate the success of our solutions through design research.
-* **User-centered design is for people** - We proactively engage with users to understand their needs and determine how well our decisions have met those needs. 
+* **User-centered design is for people** - we proactively engage with users to understand their needs and determine how well our decisions have met those needs. 
 * **Design is never done** - we don’t have all the answers. And that’s okay. We take an iterative, cyclical, lean approach. We try things out. We commit to continuous improvement using critiques, wireframes, prototypes, usability tests, etc.
 
 
@@ -47,7 +47,6 @@ I know the best way to tackle complex problems is by remaining adaptable. I unde
 - Pencil and Paper
 
 <!--
-**duvandekoker/duvandekoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
