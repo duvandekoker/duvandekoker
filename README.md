@@ -34,9 +34,17 @@ I know the best way to tackle complex problems is by remaining adaptable. I unde
 * **Design is never done** - we don’t have all the answers. And that’s okay. We take an iterative, cyclical, lean approach. We try things out. We commit to continuous improvement using critiques, wireframes, prototypes, usability tests, etc.
 
 
-#### Here's some trivia about me:
+#### My favourite tools
 
-* Describe myself
+- Figma
+- Firefox
+- Github
+- Miro
+- Airtable
+- Notion
+- IntelliJ IDEA
+- Visual Studio Code
+- Pencil and Paper
 
 <!--
 **duvandekoker/duvandekoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
