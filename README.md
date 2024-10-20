@@ -40,8 +40,10 @@ I know the best way to tackle complex problems is by remaining adaptable. I unde
 
 - Figma
 - Firefox
+- Gitlab
 - Github
 - Miro
+- Dovetail
 - Airtable
 - Notion
 - IntelliJ IDEA
